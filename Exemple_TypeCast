@@ -1,0 +1,11 @@
+double nbre1 = 10, nbre2 = 3;
+int resultat = nbre1 / nbre2;
+System.out.println("Le résultat est = " + resultat); 
+
+
+Eclipse vous souligne nbre1 / nbre2 et vous met une croix rouge sur la gauche de la zone d'édition, sur cette même ligne.
+
+Double-cliquez sur "Add cast to 'int'" et Eclipse vous met automatiquement le cast de l'opération !
+Ensuite pour tester, vous pouvez cliquez sur "Run" ou appuyer sur Control + F11.
+Si vous faites cette manipulation (Ctrl + F11), une fenêtre s'ouvre et vous demande quelle ressource sauver, puis lancer. Pour le
+moment, le choix est simple puisque vous n'avez qu'une classe. Vous n'avez plus qu'à valider et votre programme se lance !
