@@ -1,0 +1,14 @@
+Exercice 1 – Création d’une table 
+
+Créer la table client avec les attributs :
+ – nom : chaîne de caractères représentant le nom du client,
+ – prenom : chaîne de caractères représentant le prénom du client, 
+– adr : chaîne de caractères représentant l’adresse du client, 
+– ss : chaîne de caractères représentant le numéro de sécurité sociale du client.
+- id_client, entier représentant l’identifiant du client. 
+Entrer ensuite 3 données dans la table client avec la commande INSERT et
+ afficher la table avec la commande SELECT. 
+ 
+Créer la table affichage
+ Effacer la table affichage avec la commande DROP TABLE. 
+  
