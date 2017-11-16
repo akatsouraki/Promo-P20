@@ -1,0 +1,9 @@
+– chaque film est associe a un titre, un genre, une maison de production, une date de sortie et un code unique ; 
+– chaque film peut avoir plusieurs copies
+– le système garde, pour chaque client, son nom, adresse, numero de telephone et adresse du courrier électronique ; 
+– chaque client a une carte ou son credit est enregistre, chaque carte a un numero unique ;
+
+
+Créer les tables pour cette BDD.
+Entrer ensuite 3 données dans chaque table avec la commande INSERT et
+ afficher les tables avec la commande SELECT.
