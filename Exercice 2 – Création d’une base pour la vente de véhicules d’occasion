@@ -1,0 +1,8 @@
+– chaque véhicules  est identifié par sa plaque, numéro de châssis et par d’autres caractéristiques, notamment couleur, cylindrée et type de carburant ; 
+– chaque véhicules  a aussi une espèce de carte d’identité qui indique sa date d’immatriculation, le nombre de kilomètres parcourus et la date de la dernière révision ; 
+– chaque client est enregistré en indiquant nom, prénom, adresse et code de sécurité sociale ;
+ – chaque client peut signer un ou plusieurs contrats pour acheter différents véhicules : Chaque contrat doit indiquer la date, la somme  à payer et le nombre de versements 
+ 
+Créer les tables pour cette BDD.
+Entrer ensuite 3 données dans chaque table avec la commande INSERT et
+ afficher les tables avec la commande SELECT.
